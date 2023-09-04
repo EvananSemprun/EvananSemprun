@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻ingeniero en computación en proceso de transformarse en desarrollador full stack  / Computer Science student in process of becoming a full stack developer 
+💻ingeniero en computación en proceso de transformarse en desarrollador full stack  
+💻computer engineer in the process of becoming a full stack developer 
 
 
 
