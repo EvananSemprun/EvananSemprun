@@ -2,7 +2,7 @@
 💻ingeniero en computación en proceso de transformarse en desarrollador full stack  
 💻computer engineer in the process of becoming a full stack developer 
 
-![](https://visitcount.itsvg.in/api?id=EvananSemprun&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=EvananSemprun&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/evanan_s21) 
 
