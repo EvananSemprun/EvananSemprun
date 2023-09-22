@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 💻ingeniero en computación en proceso de transformarse en desarrollador full stack  
 💻computer engineer in the process of becoming a full stack developer 
 
