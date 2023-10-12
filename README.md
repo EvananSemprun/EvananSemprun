@@ -8,7 +8,7 @@
   <a href="https://instagram.com/evanan_s21">
     <img style="width: 64px; height: 64px; margin-right: 0px; margin-bottom: 0px;" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
   </a>
-   <a href="https://instagram.com/evanan_s21">
+   <a href="#">
     <img style="width: 64px; height: 64px; margin-right: 0px; margin-bottom: 0px;" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" />
   </a>
 </p>
