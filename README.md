@@ -16,7 +16,7 @@
 # 💻 Tech Stack:
 <div style="display: flex;">
   
-  <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F163333%2Fhtml-5&psig=AOvVaw3I_Xxivs_-uQ9mvhmFBc4L&ust=1729005185515000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjJv7CUjokDFQAAAAAdAAAAABAT)" alt="icon" width="64" style="width: 64px; height: 64px; margin-right: 91px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F163333%2Fhtml-5&psig=AOvVaw3I_Xxivs_-uQ9mvhmFBc4L&ust=1729005185515000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjJv7CUjokDFQAAAAAdAAAAABAT)" alt="icon" width="64" style="width: 64px; height: 64px; margin-right: 91px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="64" style="width: 64px; height: 64px; margin-right: 91px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="64" style="width: 64px; height: 64px; margin-right: 91px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="64" style="width: 64px; height: 64px; margin-right: 0px; margin-bottom: 0px;" />
