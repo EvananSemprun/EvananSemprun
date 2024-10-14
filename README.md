@@ -1,4 +1,4 @@
-#  About Me:
+[#  About Me:
 💻ingeniero en computación en proceso de transformarse en desarrollador full stack  
 💻computer engineer in the process of becoming a full stack developer 
 
@@ -14,15 +14,35 @@
 </p>
 
 # 💻 Tech Stack:
-<div style="display: flex;">
-  
-  <img src="https://techstack-generator.vercel.app/js-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F163333%2Fhtml-5&psig=AOvVaw3I_Xxivs_-uQ9mvhmFBc4L&ust=1729005185515000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjJv7CUjokDFQAAAAAdAAAAABAT)" alt="icon" width="64" style="width: 64px; height: 64px; margin-right: 91px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="64" style="width: 64px; height: 64px; margin-right: 91px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="64" style="width: 64px; height: 64px; margin-right: 91px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="64" style="width: 64px; height: 64px; margin-right: 0px; margin-bottom: 0px;" />
-  
-  <img src="https://media4.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" alt="icon" width="64" style="width: 150px; height: 64px; margin-right: 0px; margin-bottom: 0px;" />
-  
-  <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif" alt="icon" width="64" style="width: 100px; height: 64px; margin-right: 0px; margin-bottom: 0px;" />
+<h3 align="center">A passionate frontend developer from India</h3>
 
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evanansemprun&label=Profile%20views&color=0e75b6&style=flat" alt="evanansemprun" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evanansemprun" alt="evanansemprun" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanansemprun&show_icons=true&locale=en&layout=compact" alt="evanansemprun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evanansemprun&show_icons=true&locale=en" alt="evanansemprun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evanansemprun&" alt="evanansemprun" /></p>
