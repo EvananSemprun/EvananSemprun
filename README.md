@@ -1,19 +1,15 @@
-<img src="header.png" />
 
 ##  About Me:
+<img src="header.png" />
+
 💻ingeniero en computación en proceso de transformarse en desarrollador full stack  
 💻computer engineer in the process of becoming a full stack developer 
 
-[![](https://visitcount.itsvg.in/api?id=EvananSemprun&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
-## 🌐 Socials:
-<p >
   <a href="https://instagram.com/evanan_s22">
     <img style="width: 64px; height: 64px; margin-right: 0px; margin-bottom: 0px;" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
   </a>
-   <a href="#">
-    <img style="width: 64px; height: 64px; margin-right: 0px; margin-bottom: 0px;" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" />
-  </a>
-</p>
+
+[![](https://visitcount.itsvg.in/api?id=EvananSemprun&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
 
 
 <h3 align="left">Languages and Tools:</h3>
