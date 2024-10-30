@@ -14,9 +14,6 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evanansemprun&label=Profile%20views&color=0e75b6&style=flat" alt="evanansemprun" /> </p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
